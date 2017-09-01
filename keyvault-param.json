@@ -20,7 +20,7 @@
                 }
             ]
         },
-        "secureObject": {
+        "secretsObject": {
             "value": {
                 "secrets": [						
                     {
@@ -31,4 +31,4 @@
             }
         }
     }
-    }
+}
